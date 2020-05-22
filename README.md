@@ -6,16 +6,16 @@ Odin Project - Recursion
 - [Instructions](https://github.com/fussykyloren/ruby-hangman#instructions)
 ## Fibonacci Sequence
 ### Information
-Here's a new game for you! Play Hangman straight from your console! All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
+In this program, the first n fibonacci sequence numbers can be found. This was implemented using both recursion (fibs_rec.rb) and iteration (fibs.rb). All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
 ### Status
 At this time, the project is __*finished*__.
 ## Merge Sort
 ### Information
-Here's a new game for you! Play Hangman straight from your console! All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
+In this program, a single array is passed and a sorted array is returned. The sort used is a merge sort, with one function to sort the array (using a left and right version of the one passed) and another function to merge the left and right arrays. This is implemented using recursion. All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
 ### Status
 At this time, the project is __*finished*__.
 ## Instructions
-To run these program, Ruby v2.6.3p62 (or a compatible version) will need to be installed. To check the version of ruby you are using, run this command in terminal:
+To run these programs, Ruby v2.6.3p62 (or a compatible version) will need to be installed. To check the version of ruby you are using, run this command in terminal:
 ```
 ruby -v
 ```
