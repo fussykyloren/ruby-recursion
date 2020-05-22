@@ -13,7 +13,7 @@ At this time, the project is __*finished*__.
 ### Information
 Here's a new game for you! Play Hangman straight from your console! All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
 ### Status
-At this time, the project is __NOT *finished*__.
+At this time, the project is __*finished*__.
 ## Instructions
 To run these program, Ruby v2.6.3p62 (or a compatible version) will need to be installed. To check the version of ruby you are using, run this command in terminal:
 ```
