@@ -1,10 +1,10 @@
 # Recursion in Ruby
 Odin Project - Recursion
 # Table of Contents
-- Fibonacci Sequence
+- [Fibonacci Sequence](https://github.com/fussykyloren/ruby-recursion#fibonacci-sequence)
   - [Information](https://github.com/fussykyloren/ruby-recursion#information)
   - [Status](https://github.com/fussykyloren/ruby-recursion#status)
- - Merge Sort
+ - [Merge Sort](https://github.com/fussykyloren/ruby-recursion#merge-sort)
   - [Information](https://github.com/fussykyloren/ruby-recursion#information-1)
   - [Status](https://github.com/fussykyloren/ruby-recursion#status-1)
 - [Instructions](https://github.com/fussykyloren/ruby-hangman#instructions)
