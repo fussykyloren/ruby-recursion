@@ -1,8 +1,12 @@
 # Recursion in Ruby
 Odin Project - Recursion
 # Table of Contents
-- [Information](https://github.com/fussykyloren/ruby-hangman#information)
-- [Status](https://github.com/fussykyloren/ruby-hangman#status)
+- Fibonacci Sequence
+  - [Information](https://github.com/fussykyloren/ruby-recursion#information)
+  - [Status](https://github.com/fussykyloren/ruby-recursion#status)
+ - Merge Sort
+  - [Information](https://github.com/fussykyloren/ruby-recursion#information)
+  - [Status](https://github.com/fussykyloren/ruby-recursion#status)
 - [Instructions](https://github.com/fussykyloren/ruby-hangman#instructions)
 ## Fibonacci Sequence
 ### Information
